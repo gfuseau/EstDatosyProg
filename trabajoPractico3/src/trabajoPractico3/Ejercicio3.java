@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio3 {
 
-	public static void main() {
+	public static void main(String[] args) {
 		Main.titulo("Calcular el producto de dos números enteros positivos mediante sumas sucesivas");
 		Scanner scanner = new Scanner(System.in);
 		int x, y;

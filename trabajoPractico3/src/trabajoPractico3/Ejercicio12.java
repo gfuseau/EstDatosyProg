@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio12 {
 
-	public static void main() {
+	public static void main(String[] args) {
 		Main.titulo("Calcular e^x usando polinomio de Taylor de grado 3");
 		Scanner scanner = new Scanner(System.in);
 		int input;

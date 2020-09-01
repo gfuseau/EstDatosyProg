@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio14a {
 	
-	public static void main() {
+	public static void main(String[] args) {
 		Main.titulo("Programa que genera una secuencia rara de números");
 		Scanner scanner = new Scanner(System.in);
 		int input;

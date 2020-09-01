@@ -3,13 +3,7 @@ package trabajoPractico3;
 public class Main {
 
 	public static void main(String[] args) {
-		//Ejercicio1.main();
-		//Ejercicio2.main();
-		//Ejercicio3.main();
-		//Ejercicio4.main();
-		Ejercicio5.main(null);
-		//Ejercicio12.main();
-		//Ejercicio14a.main();
+		titulo("Ejecutar el main de cada clase");
 	}
 
 	public static void titulo(String text) {

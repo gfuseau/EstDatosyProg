@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio2 {
 	
-	public static void main() {
+	public static void main(String[] args) {
 		Main.titulo("Calcular la n-ésima potencia de un número entero");
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Ingrese la base entera: ");
